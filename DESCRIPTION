@@ -4,8 +4,7 @@ Title: An R package to search and download data from CEPALSTAT WEB SERVICES
 Version: 0.0.1
 Author: Henry Antonio Osorto Ruiz
 Maintainer: Henry Osorto <henryantonioosortoruiz@gmail.com>
-Description: The CEPALSTATr package provides access to the statistical information available in CEPALSTAT's integrated databases (data and metadata), joining both data sets to provide a structured database composed of values and their respective labels.
-When consulting an indicator, information is obtained at different levels of disaggregation (country, sex) for specific indicators; the names of variables and labels can be consulted in English or Spanish.
+Description: The CEPALSTATr package provides access to the statistical information available in CEPALSTAT's integrated databases (data and metadata), joining both data sets to provide a structured database composed of values and their respective labels. When consulting an indicator, information is obtained at different levels of disaggregation (country, sex) for specific indicators; the names of variables and labels can be consulted in English or Spanish.
 License: GPL-3
 URL: https://github.com/Henry-Osorto/CEPALSTATr
 Encoding: UTF-8
